@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Quantitative Genetics Applied to Breeding"
+title: "Quantitative Genetics \n Applied to Breeding"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
